@@ -1,5 +1,5 @@
-num = int(input("Digite seu número: "))
-numOuro = input("Você quer descobrir o número de ouro de seu número? Y(sim) ou N(não)")
+num = int(input("Enter your number: "))
+numOuro = input("Do you want to find out the golden number of your number? Y(yes) ou N(no)")
 if num == 0:
     print('0')
 if num == 1 or num == 2:
@@ -15,4 +15,4 @@ if numOuro == 'N':
 if numOuro == 'Y':
     sO = num - 1
     div = num / sO
-    print('Seu número de ouro é {}' .format(div))
+    print('Your golden number is {}' .format(div))
