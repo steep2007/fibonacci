@@ -1,6 +1,7 @@
 # Fibonacci
-![GitHub repo file count](https://img.shields.io/github/directory-file-count/steep2007/fibonacci?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/steep2007/fibonacci?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/steep2007/fibonacci-code?style=for-the-badge)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/steep2007/fibonacci?style=for-the-badge)
 
 
 <img width="250px" src="img/fibonacci.jpg" alt="image of fibonacci">
