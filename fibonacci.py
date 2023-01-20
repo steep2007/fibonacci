@@ -15,4 +15,4 @@ if numOuro == 'N':
 if numOuro == 'Y':
     sO = ressom - 1
     div = ressom / sO
-    print('Your golden number is {}' .format(div))
+    print(f'Your golden number is {div}')
